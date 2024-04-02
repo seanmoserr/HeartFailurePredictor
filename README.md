@@ -5,7 +5,7 @@ This project was created for my Statistics 4720 - Applied Statistical Models II 
 ```
 ## Links to Project Content
 * [Source R Code](/Project.R)
-* [Project Report](/Stat4520-FinalProjectReport.pdf)
+* [Project Report](/Report.pdf)
 * [Dataset](/heartFailure.csv)
 
 
